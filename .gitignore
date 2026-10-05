@@ -1,0 +1,4 @@
+neso.db
+__pycache__/
+*.csv
+!exports/*.csv
